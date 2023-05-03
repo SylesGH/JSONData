@@ -1,1 +1,458 @@
-
+[
+    {
+        "id": 1,
+        "author": "Nazım Hikmet",
+        "title": "Seni Düşünmek",
+        "text": "Seni düşünmek güzel şey,\nÜmitli şey, \nDünyanın en güzel sesinden \nEn güzel şarkıyı dinlemek gibi birşey... \nFakat artık ümit yetmiyor bana, \nBen artık şarkı dinlemek değil, \nŞarkı söylemek istiyorum..."
+    },
+    {
+        "id": 2,
+        "author": "Nazım Hikmet",
+        "title": "Bence Şimdi Sen De Herkes Gibisin",
+        "text": "Gözlerim gözünde aşkı seçmiyor \nOnlardan kalbime sevda geçmiyor \nBen yordum ruhumu biraz da sen yor \nÇünkü bence şimdi herkes gibisin \nYolunu beklerken daha dün gece \nKaçıyorum bugün senden gizlice \nKalbime baktım da işte iyice \nAnladım ki sen de herkes gibisin \nBüsbütün unuttum seni eminim \nMaziye karıştı şimdi yeminim \nKalbimde senin için yok bile kinim \nBence sen de şimdi herkes gibisin"
+    },
+    {
+        "id": 3,
+        "author": "Nazım Hikmet",
+        "title": "Tahirle Zühre Meselesi",
+        "text": "Tahir olmak da ayıp değil Zühre olmak da \nHattâ sevda yüzünden ölmek de ayıp değil, \nBütün iş Tahirle Zühre olabilmekte \nYani yürekte. \n\nMeselâ bir barikatta dövüşerek \nMeselâ kuzey kutbunu keşfe giderken \nMeselâ denerken damarlarında bir serumu \nÖlmek ayıp olur mu? \n\nTahir olmak da ayıp değil Zühre olmak da \nHattâ sevda yüzünden ölmek de ayıp değil. \n\nSeversin dünyayı doludizgin \nAma o bunun farkında değildir \nAyrılmak istemezsin dünyadan \nAma o senden ayrılacak \nYani sen elmayı seviyorsun diye \nElmanın da seni sevmesi şart mı? \nYani Tahiri Zühre sevmeseydi artık \nYahut hiç sevmeseydi \nTahir ne kaybederdi Tahirliğinden? \n\nTahir olmak da ayıp değil Zühre olmak da \nHattâ sevda yüzünden ölmek de ayıp değil."
+    },
+    {
+        "id": 4,
+        "author": "Nazım Hikmet",
+        "title": "Seviyorum Seni",
+        "text": "Seviyorum seni \nekmeği tuza banıp yer gibi \n\nGeceleyin ateşler içinde uyanarak \nağzımı dayayıp musluğa su içer gibi \n\nAğır posta paketini \nneyin nesi belirsiz \ntelaşlı, sevinçli, kuşkulu açar gibi \n\nSeviyorum seni \ndenizi ilk defa uçakla geçer gibi \n\nİstanbul'da yumuşacık kararırken ortalık \niçimde kımıldayan birşeyler gibi \n\nSeviyorum seni \nYaşıyoruz çok şükür der gibi."
+    },
+    {
+        "id": 5,
+        "author": "Nazım Hikmet",
+        "title": "Bir Ayrılış Hikayesi",
+        "text": "Erkek kadına dedi ki: \n- Seni seviyorum, \nama nasıl? \navuçlarımda camdan bir parça gibi kalbimi sıkıp \nparmaklarımı kanatarak \nkırasıya, \nçıldırasıya... \nErkek kadına dedi ki: \n- Seni seviyorum, \nama nasıl? \nkilometrelerce derin, kilometrelerce dümdüz, \nyüzde yüz, yüzde bin beşyüz \nyüzde hudutsuz kere yüz... \nKadın erkeğe dedi ki: \n- Baktım \ndudağımla, yüreğimle, kafamla; \nseverek, korkarak, eğilerek, \ndudağına, yüreğine, kafana. \nŞimdi ne söylüyorsam \nkaranlıkta bir fısıltı gibi sen öğrettin bana... \nVe artık \nbiliyorum: \nToprağın \nYüzü güneşli bir ana gibi \nEn son, en güzel çocuğunu emzirdiğini... \n\nFakat neyleyim \nsaçlarım dolanmış \nölmekte olanın parmaklarına \nbaşımı kurtarmam kâbil \ndeğil! \nSen \nyürümelisin, \nyeni doğan çocuğun \ngözlerine bakarak... \n\nSen \nyürümelisin, \nbeni bırakarak... \n\nKadın sustu. \n\nSARILDILAR \n\nBir kitap düştü yere... \nKapandı bir pencere... \n\nAYRILDILAR..."
+    },
+    {
+        "id": 6,
+        "author": "Nazım Hikmet",
+        "title": "Ceviz Ağacı",
+        "text": "Başım köpük köpük bulut, içim dışım deniz, \nBen bir ceviz ağacıyım Gülhane Parkı'nda, \nBudak budak, şerham şerham ihtiyar bir ceviz. \nNe sen bunun farkındasın, ne polis farkında.\n\nBen bir ceviz ağacıyım Gülhane Parkı'nda. \nYapraklarım suda balık gibi kıvıl kıvıl. \nYapraklarım ipek mendil gibi tiril tiril, \nKoparıver, gözlerinin, gülüm, yaşını sil. \nYapraklarım ellerimdir, tam yüz bin elim var. \nYüz bin elle dokunurum sana, İstanbul'a. \nYapraklarım gözlerimdir, şaşarak bakarım. \nYüz bin gözle seyrederim seni, İstanbul'u. \nYüz bin yürek gibi çarpar, çarpar yapraklarım.\n\nBen bir ceviz ağacıyım Gülhane Parkı'nda. \nNe sen bunun farkındasın, ne polis farkında."
+    },    
+    {
+        "id": 7,
+        "author": "Nazım Hikmet",
+        "title": "Mavi Liman",
+        "text": "Çok yorgunum, beni bekleme kaptan. \nSeyir defterini başkası yazsın. \nÇınarlı, kubbeli, mavi bir liman. \nBeni o limana çıkaramazsın..."
+    },
+    {
+        "id": 8,
+        "author": "Nazım Hikmet",
+        "title": "Sevgilim",
+        "text": "Sevgilim yalan söylersem sana \nKopsun ve mahrum kalsın dilim \nSeni seviyorum demek bahtiyarlığından \n\nSevgilim yalan yazarsam sana \nKurusun ve mahrum kalsın elim \nOkşayabilmek saadetinden seni \n\nSevgilim yalan söylerse sana gözlerim \nİki nadim gözyaşı gibi avuçlarıma aksınlar \nVe göremesinler seni bir daha."
+    },
+    {
+        "id": 9,
+        "author": "Nazım Hikmet",
+        "title": "Yine Sana Dair",
+        "text": "Sende, ben, kutba giden bir geminin sergüzeştini,\nsende, ben, kumarbaz macerasını keşiflerin,\nsende uzaklığı,\nsende, ben, imkansızlığı seviyorum.\n\nGüneşli bir ormana dalar gibi dalmak gözlerine\nve kan ter içinde, aç ve öfkeli,\nve bir avcı istihasıyla etini dişlemek senin.\n\nSende, ben, imkansızlığı seviyorum,\nfakat asla ümitsizliği değil..."
+    },
+    {
+        "id": 10,
+        "author": "Nazım Hikmet",
+        "title": "Davet",
+        "text": "Dörtnala gelip Uzak Asya'dan \nAkdeniz'e bir kısrak başı gibi uzanan \nbu memleket, bizim. \nBilekler kan içinde, dişler kenetli, ayaklar çıplak \nve ipek bir halıya benziyen toprak, \nbu cehennem, bu cennet bizim. \nKapansın el kapıları, bir daha açılmasın, \nyok edin insanın insana kulluğunu, \nbu dâvet bizim.... \nYaşamak bir ağaç gibi tek ve hür \nve bir orman gibi kardeşçesine, \nbu hasret bizim..."
+    },
+    {
+        "id": 11,
+        "author": "Nazım Hikmet",
+        "title": "Yaşamak Seni Sevmek Gibi...",
+        "text": "Meydan yerinde kampana vurdu. \nNerdeyse koguşlarin kapilari kapanir. \nBu sefer hapislik uzun sürdü biraz: \n8 yil... \n\nYaşamak ümitli bir iştir, sevgilim. \nYaşamak: Seni sevmek gibi ciddi bir iştir."
+    },
+    {
+        "id": 12,
+        "author": "Nazım Hikmet",
+        "title": "Bugün Pazar",
+        "text": "Bugün pazar. \nBugün beni ilk defa güneşe çıkardılar. \nVe ben ömrümde ilk defa gökyüzünün \nbu kadar benden uzak \nbu kadar mavi \nbu kadar geniş olduğuna şaşarak \nkımıldamadan durdum. \nSonra saygıyla toprağa oturdum, \ndayadım sırtımı duvara. \nBu anda ne düşmek dalgalara, \nbu anda ne kavga, ne hürriyet, ne karım. \nToprak, güneş ve ben... \nBahtiyarım..."
+    },
+    {
+        "id": 13,
+        "author": "Nazım Hikmet",
+        "title": "Bulut mu Olsam",
+        "text": "Denizin üstünde ala bulut \nyüzünde gümüş gemi \niçinde sarı balık \ndibinde mavi yosun \nkıyıda bir çıplak adam \ndurmuş düşünür. \nBulut mu olsam, \ngemi mi yoksa? \nBalık mı olsam, \nyosun mu yoksa?.. \nNe o, ne o, ne o. \nDeniz olunmalı, oğlum, \nbulutuyla, gemisiyle, balığıyla, yosunuyla."
+    },
+    {
+        "id": 14,
+        "author": "Nazım Hikmet",
+        "title": "Kız Çocuğu",
+        "text": "Kapıları çalan benim \nkapıları birer birer. \nGözünüze görünemem \ngöze görünmez ölüler. \nHiroşima'da öleli \noluyor bir on yıl kadar. \nYedi yaşında bir kızım, \nbüyümez ölü çocuklar. \nSaçlarım tutuştu önce, \ngözlerim yandı kavruldu. \nBir avuç kül oluverdim, \nkülüm havaya savruldu. \nBenim sizden kendim için \nhiçbir şey istediğim yok. \nŞeker bile yiyemez ki \nkağıt gibi yanan çocuk. \nÇalıyorum kapınızı, \nteyze, amca, bir imza ver. \nÇocuklar öldürülmesin \nşeker de yiyebilsinler."
+    },
+    {
+        "id": 15,
+        "author": "Nazım Hikmet",
+        "title": "Bu Vatana Nasıl Kıydılar",
+        "text": "İnsan olan vatanını satar mı? \nSuyun içip ekmeğini yediniz. \nDünyada vatandan aziz şey var mı? \nBeyler bu vatana nasıl kıydınız? \nOnu didik didik didiklediler, \nsaçlarından tutup sürüklediler. \ngötürüp kâfire : \"Buyur...\" dediler. \nBeyler bu vatana nasıl kıydınız? \nEli kolu zincirlere vurulmuş, \nvatan çırılçıplak yere serilmiş. \nOturmuş göğsüne Teksaslı çavuş. \nBeyler bu vatana nasıl kıydınız? \nGünü gelir çarh düzüne çevrilir, \ngünü gelir hesabınız görülür. \nGünü gelir sualiniz sorulur : \nBeyler bu vatana nasıl kıydınız?"
+    },
+    {
+        "id": 16,
+        "author": "Nazım Hikmet",
+        "title": "Yine De İyimserlik",
+        "text": "Kardeşim, \nSonu tatlıya bağlanan kitaplar yollayacağım sana. \nUçak sağ salim inebilsin meydana, \nDoktor gülerek çıksın ameliyattan, \nKör çocuğun açılsın gözleri, \nDelikanlı kurtarılsın kurşuna dizilirken, \nBirbirine kavuşsun yavuklular, \nDüğün dernek yapılsın hem de, \nSusuzluk da suya kavuşsun, \nEkmek de hürriyete. \nKardeşim, \nSonu tatlıya bağlanan kitaplar yollayacağım sana. \nOnların dediği çıkacak, \nEninde de sonunda da..."
+    },
+    {
+        "id": 17,
+        "author": "Nazım Hikmet",
+        "title": "Gözlerin",
+        "text": "Gözlerin gözlerin gözlerin, \nister hapisaneme, ister hastaneme gel, \ngözlerin gözlerin gözlerin hep güneşte, \nşu Mayıs ayı sonlarında öyledir işte \nAntalya tarafında ekinler seher vakti. \n\nGözlerin gözlerin gözlerin, \nkaç defa karşımda ağladılar \nçırılçıplak kaldı gözlerin \naltı aylık çocuk gözleri gibi kocaman ve çırılçıplak, \nfakat bir gün bile güneşsiz kalmadılar. \n\nGözlerin gözlerin gözlerin, \ngözlerin bir mahmurlaşmayagörsün \nsevinçli bahtiyar \nalabildiğine akıllı ve mükemmel \ndillere destan bir şeyler olur dünyaya sevdası insanın. \n\nGözlerin gözlerin gözlerin, \nsonbaharda öyledir işte kestanelikleri Bursa'nın \nve yaz yağmurundan sonra yapraklar \nve her mevsim ve her saat İstanbul. \n\nGözlerin gözlerin gözlerin, \ngün gelecek gülüm, gün gelecek, \nkardeş insanlar birbirine \nsenin gözlerinle bakacaklar gülüm, \nsenin gözlerinle bakacaklar."
+    },
+    {
+        "id": 18,
+        "author": "Nazım Hikmet",
+        "title": "Dünyanın En Tuhaf Mahluku",
+        "text": "Akrep gibisin kardeşim, \nkorkak bir karanlık içindesin akrep gibi. \nSerçe gibisin kardeşim, \nserçenin telaşı içindesin. \nMidye gibisin kardeşim, \nmidye gibi kapalı, rahat. \nVe sönmüş bir yanardağ ağzı gibi korkunçsun, kardeşim. \nBir değil, \nbeş değil, \nyüz milyonlarlasın maalesef. \nKoyun gibisin kardeşim, \ngocuklu celep kaldırınca sopasını \nsürüye katılıverirsin hemen \nve âdeta mağrur, koşarsın salhaneye. \nDünyanın en tuhaf mahlukusun yani, \nhani şu derya içre olup \nderyayı bilmiyen balıktan da tuhaf. \nVe bu dünyada, bu zulüm \nsenin sayende. \nVe açsak, yorgunsak, alkan içindeysek eğer \nve hâlâ şarabımızı vermek için üzüm gibi eziliyorsak \nkabahat senin, \n- demeğe de dilim varmıyor ama - \nkabahatın çoğu senin, canım kardeşim!"
+    },
+    {
+        "id": 19,
+        "author": "Nazım Hikmet",
+        "title": "Bulutlar Adam Öldürmesin",
+        "text": "Analardır adam eden adamı \naydınlıklardır önümüzde gider. \nSizi de bir ana doğurmadı mı? \nAnalara kıymayın efendiler. \n Bulutlar adam öldürmesin. \n\nKoşuyor altı yaşında bir oğlan, \nuçurtması geçiyor ağaçlardan, \nsiz de böyle koşmuştunuz bir zaman. \nÇocuklara kıymayın efendiler. \n Bulutlar adam öldürmesin. \n\nGelinler aynada saçını tarar, \naynanın içinde birini arar. \nElbet böyle sizi de aradılar. \nGelinlere kıymayın efendiler. \n Bulutlar adam öldürmesin. \n\nİhtiyarlıkta aklına insanın, \ntatlı anıları gelmeli yalnız. \nYazıktır, ihtiyarlara kıymayın, \nefendiler, siz de ihtiyarsınız. \n Bulutlar adam öldürmesin."
+    },
+    {
+        "id": 20,
+        "author": "Nazım Hikmet",
+        "title": "Belki Ben",
+        "text": "Belki ben \no günden \nçok daha evvel, \nköprü başında sallanarak \nbir sabah vakti gölgemi asfalta salacağım. \n\nBelki ben \no günden \nçok daha sonra , \nmatruş çenemde ak bir sakalın izi \nsağ kalacağım... \n\nVe ben \no günden \nçok daha sonra: \nsağ kalırsam eğer, \nşehrin meydan kenarlarında yaslanıp \nduvarlara \nson kavgadan benim gibi sağ kalan \nihtiyarlara, \nbayram akşamlarında keman \nçalacağım... \n\nEtrafta mükemmel bir gecenin \nışıklı kaldırımları \nVe yeni şarkılar söyleyen \nyeni insanların \nadımları..."
+    },
+    {
+        "id": 21,
+        "author": "Nazım Hikmet",
+        "title": "Hasret",
+        "text": "Denize dönmek istiyorum! \nMavi aynasında suların: \nboy verip görünmek istiyorum! \nDenize dönmek istiyorum! \n\nGemiler gider aydın ufuklara gemiler gider! \nGergin beyaz yelkenleri doldurmaz keder. \nElbet ömrüm gemilerde bir gün olsun nöbete yeter. \nVe madem ki bir gün ölüm mukadder; \nBen sularda batan bir ışık gibi \nsularda sönmek istiyorum! \nDenize dönmek istiyorum! \nDenize dönmek istiyorum!"
+    },
+    {
+        "id": 22,
+        "author": "Nazım Hikmet",
+        "title": "Nikbinlik",
+        "text": "Güzel günler göreceğiz çocuklar, \ngüneşli günler \ngöre- \n-ceğiz... \nMotorları maviliklere süreceğiz çocuklar, \nışıklı maviliklere \nsüre- \n-ceğiz... \nAçtık mıydı hele bir \nson vitesi, \nadedi devir. \nMotorun sesi. \nUuuuuuuy! çocuklar kim bilir \nne harikûlâdedir \n160 kilometre giderken öpüşmesi... \n\nHani şimdi bize \ncumaları, pazarları çiçekli bahçeler vardır, \nyalnız cumaları \nyalnız pazarları.. \nHani şimdi biz \nbir peri masalı dinler gibi seyrederiz \nışıklı caddelerde mağazaları, \nhani bunlar \n77 katlı yekpare camdan mağazalardır. \nHani şimdi biz haykırırız \nCevap: \naçılır kara kaplı kitap: \nzindan.. \nKayış kapar kolumuzu \nkırılan kemik \nkan. \nHani şimdi bizim soframıza \nhaftada bir et gelir. \nVe \nçocuklarımız işten eve \nsapsarı iskelet gelir.. \nHani şimdi biz.. \nİnanın: \ngüzel günler göreceğiz çocuklar \ngüneşli günler \ngöre- \n-ceğiz. \nMotorları maviliklere süreceğiz çocuklar, \nışıklı maviliklere \nsüre- \n-ceğiz....."
+    },
+    {
+        "id": 23,
+        "author": "Nazım Hikmet",
+        "title": "Büyük İnsanlık",
+        "text": "Büyük insanlık gemide güverte yolcusu \n tirende üçüncü mevki \n şosede yayan \n büyük insanlık.\nBüyük insanlık sekizinde işe gider \n yirmisinde evlenir \n kırkında ölür \n büyük insanlık.\nEkmek büyük insanlıktan başka herkese yeter \n pirinç de öyle \n şeker de öyle \n kumaş da öyle \n kitap da öyle \n büyük insanlıktan başka herkese yeter.\nBüyük insanlığın toprağında gölge yok \n sokağında fener \n penceresinde cam \nama umudu var büyük insanlığın \n umutsuz yaşanmıyor."
+    },
+    {
+        "id": 24,
+        "author": "Nazım Hikmet",
+        "title": "Sevgilim",
+        "text": "Sevgilim,\nbaşlar önde, gözler alabildiğine açık,\nyanan şehirlerin kızıltısı,\n çiğnenen ekinler\n ve bitmez tükenmez ayak sesleri :\n gidiliyor.\nVe insanlar katlediliyor :\n ağaçlardan ve danalardan\n daha rahat\n daha kolay\n daha çok.\n\nSevgilim,\nbu ayak sesleri, bu katliâmda\nhürriyetimi, ekmeğimi ve seni kaybettiğim oldu,\nfakat açlığın, karanlığın ve çığlıkların içinden\ngüneşli elleriyle kapımızı çalacak olan\ngelecek günlere güvenimi kaybetmedim hiçbir zaman..."
+    },
+    {
+        "id": 25,
+        "author": "Nazım Hikmet",
+        "title": "Yürümek",
+        "text": "Yürümek;\nyürümeyenleri\narkanda boş sokaklar gibi bırakarak,\nhavaları boydan boya yarıp ikiye\nbir mavzer gözü gibi\nkaranlığın gözüne bakarak\n yürümek!..\n\nYürümek;\ndost omuzbaşlarını\nomuzlarının yanında duyup,\nkelleni orta yere\nyüreğini yumruklarının içine koyup\n yürümek!..\n\nYürümek;\nyolunda pusuya yattıklarını,\narkadan çelme attıklarını\n bilerek\n yürümek...\n\nYürümek;\nyürekten\ngülerekten\n yürümek..."
+    },
+    {
+        "id": 26,
+        "author": "Nazım Hikmet",
+        "title": "Hürriyet Kavgası",
+        "text": "Yine kitapları, türküleri, bayraklarıyla geldiler,\ndalga dalga aydınlık oldular,\nyürüdüler karanlığın üstüne.\nMeydanları zaptettiler yine.\n\n Beyazıt'ta şehit düşen\n silkinip kalktı kabrinden,\n ve elinde bir güneş gibi taşıyıp yarasını\n yıktı Şahmeran'ın mağarasını.\n\nDaha gün o gün değil, derlenip dürülmesin bayraklar.\nDinleyin, duyduğunuz çakalların ulumasıdır.\nSafları sıklaştırın çocuklar,\nbu kavga faşizme karşı, bu kavga hürriyet kavgasıdır."
+    },
+    {
+        "id": 27,
+        "author": "Nazım Hikmet",
+        "title": "Beş Satırla",
+        "text": "Annelerin ninnilerinden\nspikerin okuduğu habere kadar,\nyürekte, kitapta ve sokakta yenebilmek yalanı,\nanlamak, sevgilim, o, bir müthiş bahtiyarlık,\nanlamak gideni ve gelmekte olanı."
+    },
+    {
+        "id": 28,
+        "author": "Nazım Hikmet",
+        "title": "Türkiye İşçi Sınıfına Selâm!",
+        "text": "Türkiye işçi sınıfına selâm! \nSelâm yaratana! \nTohumların tohumuna, serpilip gelişene selâm! \nBütün yemişler dallarınızdadır. \nBeklenen günler, güzel günlerimiz ellerinizdedir, \nhaklı günler, büyük günler, \ngündüzlerinde sömürülmeyen, gecelerinde aç yatılmayan, \nekmek, gül ve hürriyet günleri. \n\nTürkiye işçi sınıfına selâm! \nMeydanlarda hasretimizi haykıranlara, \ntoprağa, kitaba, işe hasretimizi, \nhasretimizi, ayyıldızı esir bayrağımıza. \n\nDüşmanı yenecek işçi sınıfımıza selâm! \nParanın padişahlığını, \nkaranlığını yobazın \nve yabancının roketini yenecek işçi sınıfına selâm! \n\nTürkiye işçi sınıfına selâm! \nSelâm yaratana!"
+    },
+    {
+        "id": 29,
+        "author": "Nazım Hikmet",
+        "title": "Şehitler",
+        "text": "Şehitler, Kuvâyi Milliye şehitleri, \n mezardan çıkmanın vaktidir! \nŞehitler, Kuvâyi Milliye şehitleri, \n Sakarya'da, İnönü'de, Afyon'dakiler \n Dumlupınar'dakiler de elbet \n ve de Aydın'da, Antep'te vurulup düşenler, \nsiz toprak altında ulu köklerimizsiniz \n yatarsınız al kanlar içinde. \nŞehitler, Kuvâyi Milliye şehitleri, \n siz toprak altında derin uykudayken \n düşmanı çağırdılar, \n satıldık, uyanın! \nBiz toprak üstünde derin uykulardayız, \n kalkıp uyandırın bizi! \n Uyandırın bizi! \nŞehitler, Kuvâyi Milliye şehitleri, \n mezardan çıkmanın vaktidir!"
+    },
+    {
+        "id": 30,
+        "author": "Nazım Hikmet",
+        "title": "Japon Balıkçısı",
+        "text": "Denizde bir bulutun öldürdüğü \nJapon balıkçısı genç bir adamdı. \nDostlarından dinledim bu türküyü \nPasifik'te sapsarı bir akşamdı. \n\nBalık tuttuk yiyen ölür. \nElimize değen ölür. \nBu gemi bir kara tabut, \nlumbarından giren ölür. \n\nBalık tuttuk yiyen ölür, \nbirden değil, ağır ağır, \netleri çürür, dağılır. \nBalık tuttuk yiyen ölür. \n\nElimize değen ölür. \nTuzla, güneşle yıkanan \nbu vefalı, bu çalışkan \nelimize değen ölür. \nBirden değil, ağır ağır, \netleri çürür, dağılır. \nElimize değen ölür... \n\nBadem gözlüm, beni unut. \nBu gemi bir kara tabut, \nlumbarından giren ölür. \nÜstümüzden geçti bulut. \n\nBadem gözlüm beni unut. \nBoynuma sarılma, gülüm, \nbenden sana geçer ölüm. \nBadem gözlüm beni unut. \n\nBu gemi bir kara tabut. \nBadem gözlüm beni unut. \nÇürük yumurtadan çürük, \nbenden yapacağın çocuk. \nBu gemi bir kara tabut. \nBu deniz bir ölü deniz. \nİnsanlar ey, nerdesiniz? \nNerdesiniz?"
+    },
+    {
+        "id": 31,
+        "author": "Orhan Veli Kanık",
+        "title": "Güzel Havalar",
+        "text": "Beni bu güzel havalar mahvetti, \nBöyle havada istifa ettim \nEvkaftaki memuriyetimden. \nTütüne böyle havada alıştım, \nBöyle havada aşık oldum; \nEve ekmekle tuz götürmeyi \nBöyle havalarda unuttum; \nŞiir yazma hastalığım \nHep böyle havalarda nüksetti; \nBeni bu güzel havalar mahvetti. \n"
+    },
+    {
+        "id": 32,
+        "author": "Orhan Veli Kanık",
+        "title": "İçkiye Benzer Bir Şey Var Bu Havalarda",
+        "text": "İçkiye benzer bir şey var bu havalarda \nKötü ediyor insanı, kötü... \nHele bir hasretlik oldu mu serde; \nSevdiğin başka yerde, \nSen başka yerde. \nDertli ediyor insanı, dertli. \n\nİçkiye benzer bir şey var bu havalarda, \nSarhoş ediyor insanı, sarhoş."
+    },
+    {
+        "id": 33,
+        "author": "Orhan Veli Kanık",
+        "title": "İstanbul'u Dinliyorum",
+        "text": "İstanbul'u dinliyorum, gözlerim kapalı \nÖnce hafiften bir rüzgar esiyor; \nYavaş yavaş sallanıyor \nYapraklar, ağaçlarda; \nUzaklarda, çok uzaklarda, \nSucuların hiç durmayan çıngırakları \nİstanbul'u dinliyorum, gözlerim kapalı. \n\nİstanbul'u dinliyorum, gözlerim kapalı; \nKuşlar geçiyor, derken; \nYükseklerden, sürü sürü, çığlık çığlık. \nAğlar çekiliyor dalyanlarda; \nBir kadının suya değiyor ayakları; \nİstanbul'u dinliyorum, gözlerim kapalı. \n\nİstanbul'u dinliyorum, gözlerim kapalı; \nSerin serin Kapalıçarşı \nCıvıl cıvıl Mahmutpaşa \nGüvercin dolu avlular \nÇekiç sesleri geliyor doklardan \nGüzelim bahar rüzgarında ter kokuları; \nİstanbul'u dinliyorum, gözlerim kapalı. \n\nİstanbul'u dinliyorum, gözlerim kapalı; \nBaşımda eski alemlerin sarhoşluğu \nLoş kayıkhaneleriyle bir yalı; \nDinmiş lodosların uğultusu içinde \nİstanbul'u dinliyorum, gözlerim kapalı. \n\nİstanbul'u dinliyorum, gözlerim kapalı; \nBir yosma geçiyor kaldırımdan; \nKüfürler, şarkılar, türküler, laf atmalar. \nBirşey düşüyor elinden yere; \nBir gül olmalı; \nİstanbul'u dinliyorum, gözlerim kapalı. \n\nİstanbul'u dinliyorum, gözlerim kapalı; \nBir kuş çırpınıyor eteklerinde; \nAlnın sıcak mı, değil mi, biliyorum; \nDudakların ıslak mı, değil mi, biliyorum; \nBeyaz bir ay doğuyor fıstıkların arkasından \nKalbinin vuruşundan anlıyorum; \nİstanbul'u dinliyorum."
+    },
+    {
+        "id": 34,
+        "author": "Orhan Veli Kanık",
+        "title": "Bir Iş Var",
+        "text": "Her gün bu kadar güzel mi bu deniz? \nBöyle mi görünür gökyüzü her zaman? \nHer zaman güzel mi bu kadar, \nBu eşya, bu pencere? \nDegil, \nVallahi degil; \nBir iş var bu işin içinde."
+    },
+    {
+        "id": 35,
+        "author": "Orhan Veli Kanık",
+        "title": "Değil",
+        "text": "Bilmem ki nasıl anlatsam; \nNasıl, nasıl, size derdimi! \nBir dert ki yürekler acısı, \nBir dert ki düşman başına. \nGönül yarası desem... \nDeğil! \nEkmek parası desem... \nDeğil! \nBir dert ki... \nDayanılır şey değil."
+    },
+    {
+        "id": 36,
+        "author": "Orhan Veli Kanık",
+        "title": "İntihar",
+        "text": "Kimse duymadan ölmeliyim \nAğzımın kenarında \nBir parça kan bulunmalı. \nBeni tanımayanlar \n'Mutlak birini seviyordu' demeliler. \nTanıyanlarsa, 'Zavallı, demeli, \nÇok sefalet çekti..' \nFakat hakiki sebep \nBunlardan hiçbiri olmamalı."
+    },
+    {
+        "id": 37,
+        "author": "Orhan Veli Kanık",
+        "title": "Yalnızlik Şiiri",
+        "text": "Bilmezler yalniz yaşamayanlar, \nNasil korku verir sessizlik insana; \nInsan nasil konuşur kendisiyle; \nNasil koşar aynalara, \nBir cana hasret, \nBilmezler."
+    },
+    {
+        "id": 38,
+        "author": "Orhan Veli Kanık",
+        "title": "Gün Olur",
+        "text": "Gün olur, alır başımı giderim, \nDenizden yeni çıkmış ağların kokusunda. \nŞu ada senin, bu ada benim, \nYelkovan kuşlarının peşi sıra. \nDünyalar vardır, düşünemezsiniz; \nÇiçekler gürültüyle açar; \nGürültüyle çıkar duman topraktan. \nHele martılar, hele martılar, \nHer bir tüylerinde ayrı telaş!... \nGün olur, başıma kadar mavi; \nGün olur başıma kadar güneş; \nGün olur, deli gibi..."
+    },
+    {
+        "id": 39,
+        "author": "Orhan Veli Kanık",
+        "title": "Sevdaya Mı Tutuldum?",
+        "text": "Benim de mi düşüncelerim olacaktı, \nBen de mi böyle uykusuz kalacaktım. \nSessiz, sedasız mı olacaktım böyle? \nÇok sevdiğim salatayı bile \nAramaz mı olacaktım? \nBen böyle mi olacaktım?"
+    },
+    {
+        "id": 40,
+        "author": "Orhan Veli Kanık",
+        "title": "Bedava",
+        "text": "Bedava yaşıyoruz, bedava; \nHava bedava, bulut bedava; \nDere tepe bedava; \nYağmur çamur bedava; \nOtomobillerin dışı, \nSinemaların kapısı, \nCamekanlar bedava; \nPeynir ekmek değil ama \nAcı su bedava; \nKelle fiyatına hürriyet, \nEsirlik bedava; \nBedava yaşıyoruz, bedava."
+    },
+    {
+        "id": 41,
+        "author": "Orhan Veli Kanık",
+        "title": "Derdim Başka",
+        "text": "Sanma ki derdim güneşten ötürü; \nNe çıkar bahar geldiyse? \nBademler çiçek açtıysa? \nUcunda ölüm yok ya. \nHoş, olsa da korkacak mıyım zaten \nGüneşle gelecek ölümden \nBen ki her nisan bir yaş daha genç, \nHer bahar biraz daha aşığım; \nKorkar mıyım? \nAh, dostum, derdim başka..."
+    },
+    {
+        "id": 42,
+        "author": "Orhan Veli Kanık",
+        "title": "Birdenbire",
+        "text": "Her şey birdenbire oldu. \nBirdenbire vurdu gün ışığı yere; \nGökyüzü birdenbiler oldu; \nMavi birdenbire. \nHer şey birdenbire oldu; \nBirdenbire tütmeye başladı duman topraktan; \nFiliz birdenbire oldu, tomurcuk birdenbire. \nYemiş birdenbire oldu. \n\nBirdenbire, \nBirdenbire; \nHer şey birdenbire oldu. \nKız birdenbire, oğlan birdenbire; \nYollar, kırlar, kediler, insanlar... \nAşk birdenbire oldu, \nSevinç birdenbire."
+    },
+    {
+        "id": 43,
+        "author": "Orhan Veli Kanık",
+        "title": "Yaşamak I",
+        "text": "Biliyorum, kolay değil yaşamak, \nGönül verip türkü söylemek yar üstüne; \nYıldız ışığında dolaşıp geceleri, \nGündüzleri gün ışığında ısınmak; \nŞöyle bir fırsat bulup yarım gün, \nYan gelebilmek Çamlıca tepesine... \n-Bin türlü mavi akar Boğaz'dan- \nHer şeyi unutabilmek maviler içinde."
+    },
+    {
+        "id": 44,
+        "author": "Orhan Veli Kanık",
+        "title": "Yaşamak II",
+        "text": "Biliyorum, kolay değil yaşamak; \nAma işte \nBir ölünün hâlâ yatağı sıcak, \nBirinin saati işliyor kolunda. \nYaşamak kolay değil ya kardeşler, \nÖlmek de değil; \n\nKolay değil bu dünyadan ayrılmak."
+    },
+    {
+        "id": 45,
+        "author": "Orhan Veli Kanık",
+        "title": "Dalgacı Mahmut",
+        "text": "İşim gücüm budur benim, \nGökyüzünü boyarım her sabah. \nHepiniz uykudayken. \nUyanır bakarsınız ki mavi. \n\nDeniz yırtılır kimi zaman, \nBilmezsiniz kim diker; \nBen dikerim. \n\nDalga geçerim kimi zaman da, \nO da benim vazifem; \nBir baş düşünürüm başımda, \nBir mide düşünürüm midemde, \nBir ayak düşünürüm ayağımda, \nNe haltedeceğimi bilemem."
+    },
+    {
+        "id": 46,
+        "author": "Orhan Veli Kanık",
+        "title": "Hürriyete Doğru",
+        "text": "Gün doğmadan, \nDeniz daha bembeyazken çıkacaksın yola. \nKürekleri tutmanın şehveti avuçlarında, \nİçinde bir iş görmenin saadeti, \nGideceksin; \nGideceksin ırıpların çalkantısında. \nBalıklar çıkacak yoluna, karşıcı; \nSevineceksin. \nAğları silkeledikçe \nDeniz gelecek eline pul pul; \nRuhları sustuğu vakit martıların, \nKayalıklardaki mezarlarında, \nBirden, \nBir kıyamettir kopacak ufuklarda. \nDenizkızları mı dersin, kuşlar mı dersin; \nBayramlar seyranlar mı dersin, şenlikler cümbüşler mi? \nGelin alayları, teller, duvaklar, donanmalar mı? \nHeeeey! \nNe duruyorsun be, at kendini denize; \nGeride bekliyenin varmış, aldırma; \nGörmüyor musun, her yanda hürriyet; \nYelken ol, kürek ol, dümen ol, balık ol, su ol; \nGit gidebildiğin yere."
+    },
+    {
+        "id": 47,
+        "author": "Orhan Veli Kanık",
+        "title": "Denizi Özleyenler İçin",
+        "text": "Gemiler geçer rüyalarımda, \nAllı pullu gemiler, damların üzerinden; \nBen zavallı, \nBen yıllardır denize hasret, \n'Bakar bakar ağlarım.' \nHatırlarım ilk görüşümü dünyayı, \nBir midye kabuğunun aralığından; \nSuların yeşili,göklerin mavisi, \nLapinaların en harelisi... \nHala tuzlu akar kanım \nİstiridyelerin kestiği yerden. \nNeydi o deli gibi gidişimiz, \nBembeyaz köpüklerle, açıklara! \nKöpükler ki fena kalpli değil, \nKöpükler ki dudaklara benzer; \nKöpükler ki insanlarla \nZinaları ayıp değil. \nGemiler gecer rüyalarımda, \nAllı pullu gemiler,damların üzerinden; \nBen zavallı, \nBen yıllardır denize hasret"
+    },
+    {
+        "id": 48,
+        "author": "Orhan Veli Kanık",
+        "title": "Ayrılış",
+        "text": "Bakakalırım giden geminin ardından; \nAtamam kendimi denize, dünya güzel; \nSerde erkeklik var, ağlayamam."
+    },
+    {
+        "id": 49,
+        "author": "Orhan Veli Kanık",
+        "title": "Gün Olur",
+        "text": "Gün olur alır başımı giderim, \nDenizden yeni çıkmış ağların kokusunda \nŞu ada senin, bu ada benim, \nYelkovan kuşlarının peşi sıra. \nDünyalar vardır, düşünemezsiniz; \nÇiçekler gürültüyle açar; \nGürültüyle çıkar duman topraktan. \nHele martılar, hele martılar, \nHerbir tüylerinde ayrı telaş!.. \nGün olur, başıma kadar mavi; \nGün olur, başıma kadar güneş \nGün olur, deli gibi..."
+    },
+    {
+        "id": 50,
+        "author": "Orhan Veli Kanık",
+        "title": "Ölüme Yakın",
+        "text": "Akşamüstüne doğru, kış vakti; \nBir hasta odasının penceresinde; \nYalnız bende değil yalnızlık hali; \nDeniz de karanlık, gökyüzü de; \nBir acaip, kuşların hali. \nBakma fakirmişim, kimsesizmişim; \n-Akşamüstüne doğru, kış vakti- \nBenim de sevdalar geçti başımdan. \nŞöhretmiş, kadınmış, para hırsıymış; \nZamanla anlıyor insan dünyayı. \nÖlürüz diye üzülüyoruz? \nNe ettik, ne gördük şu fani dünyada \nKötülükten gayrı? \nÖlünce kirlerimizden temizlenir, \nÖlünce biz de iyi adam oluruz; \nŞöhretmiş, kadınmış, para hırsıymış, \nHepsini unuturuz."
+    },
+    {
+        "id": 51,
+        "author": "Orhan Veli Kanık",
+        "title": "Deniz Kızı",
+        "text": "Denizden yeni mi çıkmıştı, neydi; \nSaçları, dudakları \nDeniz koktu sabaha kadar; \nYükselip alçalan göğsü deniz gibiydi. \n\nYoksuldu, biliyorum \n-Ama boyna da yoksulluk sözü edilmez ya- \nKulağımın dibinde, yavaş yavaş, \nAşk türküleri söyledi. \n\nNeler görmüş, neler öğrenmişti kim bilir. \nDenizle boğaz boğaza geçen hayatında! \nAğ yamamak, ağ atmak, ağ toplamak, \nOlta yapmak, yem çıkarmak, kayık temizlemek... \nDikenli balıkları hatırlatmak için \nElleri ellerime değdi. \n\nO gece gördüm, onun gözlerinde gördüm; \nGün ne güzel doğarmış meğer açık denizde! \nOnun saçları öğretti bana dalgayı; \nÇalkalandım durdum rüyalar içinde."
+    },
+    {
+        "id": 52,
+        "author": "Orhan Veli Kanık",
+        "title": "Pazar Akşamları",
+        "text": "Şimdi kılıksızım, fakat \nBorçlarımı ödedikten sonra \nİhtimal bir kat da yeni esvabım olacak \nVe ihtimal sen \nYine beni sevmeyeceksin. \nBununla beraber pazar akşamları \nSizin mahalleden geçerken, \nSüslenmiş olarak, \nZannediyor musun ki ben de sana \nŞimdiki kadar kıymet vereceğim?"
+    },
+    {
+        "id": 53,
+        "author": "Orhan Veli Kanık",
+        "title": "Cımbızlı Şiir",
+        "text": "Ne atom bombası \nNe Londra Konferansı \nBir elinde cımbız, \nBir elinde ayna; \nUmurunda mı dünya!"
+    },
+    {
+        "id": 54,
+        "author": "Orhan Veli Kanık",
+        "title": "Kuyruklu Şiir",
+        "text": "Uyuşamayız, yollarımız ayrı; \nSen ciğercinin kedisi, ben sokak kedisi; \nSenin yiyeceğin, kalaylı kapta; \nBenimki aslan ağzında; \nSen aşk rüyası görürsün, ben kemik. \n\nAma seninki de kolay değil, kardeşim; \nKolay değil hani, \nBöyle kuyruk sallamak Tanrının günü."
+    },
+    {
+        "id": 55,
+        "author": "Orhan Veli Kanık",
+        "title": "Dedikodu",
+        "text": "Kim söylemiş beni \nSüheyla'ya vurulmuşum diye? \nKim görmüş, ama kim, \nEleni'yi öptügümü, \nYüksekkaldirimda, güpegündüz? \nMelahat'i almişim da sonra \nAlemdar'a gitmişim, öyle mi? \nOnu sonra anlatirim, fakat \nKimin bacagini sikmişim tramvayda? \nGüya bir de Galataya dadanmişiz; \nKafalari çekip çekip \nOrada aliyormuşuz solugu; \nGeç bunlari, anam babam, geç; \nGeç bunlari bir kalem; \nBilirim ben yaptigimi. \nYa o, Mualla'yi sandala atip, \nRuhumda hicranin'i söyletme hikayesi?"
+    },
+    {
+        "id": 56,
+        "author": "Orhan Veli Kanık",
+        "title": "Baharın İlk Sabahları",
+        "text": "Tüyden hafif olurum böyle sabahlar \nKarşı damda bir güneş parçası, \nİçimde kuş cıvıltıları, şarkılar; \nBağıra çağıra düşerim yollara; \nDöner döner durur başım havalarda. \nSanırım ki günler hep güzel gidecek; \nHer sabah böyle bahar; \nNe iş güç gelir aklıma, ne yoksulluğum. \nDerim ki: 'Sıkıntılar duradursun!' \nŞairliğimle yetinir, \nAvunurum."
+    },
+    {
+        "id": 57,
+        "author": "Orhan Veli Kanık",
+        "title": "Nisan",
+        "text": "İmkansız şey\nŞiir yazmak\nAşıksan eğer;\nVe yazmamak,\nAylardan Nisansa."
+    },
+    {
+        "id": 58,
+        "author": "Orhan Veli Kanık",
+        "title": "Açsam Rüzgara",
+        "text": "Ne hoş, ey güzel Tanrım, ne hoş\nMavilerde sefer etmek!\nBir sahilden çözülüp gitmek\nDüşünceler gibi başıboş.\nAçsam rüzgara yelkenimi;\nDolaşsam ben de deniz deniz\nVe bir sabah vakti, kimsesiz\nBir limanda bulsam kendimi.\nBir limanda, büyük ve beyaz...\nMercan adalarda bir liman..\nBeyaz bulutların ardından\nGelse altın ışıklı bir yaz.\nDoldursa içimi orada\nBaygın kokusu iğdelerin.\nBilmese tadını kederin\nBu her alemden uzak ada.\nKonsa rüya dolu köşkümün\nÇiçekli dalına serçeler.\nRenklerle çözülse geceler,\nNar bahçelerinde geçse gün.\nHer gün aheste mavnaların\nGörsem açıktan geçişini\nVe her akşam dizilişini\nUfukta mermer adaların.\nNe hoş. ey Tanrım, ne hoş,\nİller, göller, kıtalar aşmak.\nNe hoş deniz deniz dolaşmak\nDüşünceler gibi başıboş.\nVersem kendimi bütün bütün\nBir yelkenli olup engine;\nKansam bir an güzelliğine\nKuşlar gibi serseri ömrün."
+    },
+    {
+        "id": 59,
+        "author": "Orhan Veli Kanık",
+        "title": "Güneş",
+        "text": "Ah aydınlıklardan uzaktayım\nKafamda o dağılmayan sükûn.\nÖlmedim lâkin, yaşamaktayım\nDinle bak: vurmada nabzı ruhun.\n\nYarasalar duyurmada bana\nKanatlarının ihtizazını.\nŞimdi hep korkular benden yana\nBekliyor sular, açmış ağzını.\n\nAh aydınlıklardan uzaktayım\nKafamda dağılmayan sükûn.\nÖlmedim lâkin, yaşamaktayım\nDinle bak vurmada nabzı ruhun.\n\nSiyah ufukların arkasında\nSeslerle çiçeklenmede bahar\nVe muhayyilemin havasında\nEn güzel zamanın renkleri var.\n\nÖlmedim hâlâ.. yaşamaktayım.\nDinle bak: vurmada nabzı ruhun!\nAh aydınlıklardan uzaktayım\nKafamda o dağılmayan sükûn.\n\nRuhum ölüm rüzgarlarına eş,\nIşık yok gecemde, gündüzümde.\nGözlerim görmüyor... lâkin güneş\nO her zaman, her zaman yüzümde."
+    },
+    {
+        "id": 60,
+        "author": "Orhan Veli Kanık",
+        "title": "Gölgem",
+        "text": "Bıktım usandım sürüklemekten onu,\nSenelerdir, ayaklarımın ucunda;\nBu dünyada biraz da yaşayalım,\nO tek başına,\nBen tek başıma."
+    },
+    {
+        "id": 61,
+        "author": "Orhan Veli Kanık",
+        "title": "Eskiler Alıyorum",
+        "text": "Eskiler alıyorum\nAlıp yıldız yapıyorum\nMusiki ruhun gıdasıdır\nMusikiye bayılıyorum\n\nŞiir yazıyorum\nŞiir yazıp eskiler alıyorum\nEskiler verip Musikiler alıyorum.\n\nBir de rakı şişesinde balık olsam"
+    },
+    {
+        "id": 62,
+        "author": "Orhan Veli Kanık",
+        "title": "Söz",
+        "text": "Aynada başka güzelsin,\nYatakta başka;\nAldırma söz olur diye;\nTak takıştır,\nSür sürüştür,\nİnadına gel,\nPiyasa vakti,\nMuhallebiciye.\n\nSöz olurmuş,\nOlsun;\nDostum değil misin?"
+    },
+    {
+        "id": 63,
+        "author": "Orhan Veli Kanık",
+        "title": "Galata Köprüsü",
+        "text": "Dikilir köprü üzerine,\nKeyifle seyrederim hepinizi.\nKiminiz kürek çeker, sıya sıya;\nKiminiz midye çıkarır dubalardan;\nKiminiz dümen tutar mavnalarda;\nKiminiz cimacıdır halat başında;\nKiminiz kuştur, uçar, şairane;\nKiminiz balıktır, pırıl pırıl;\nKiminiz vapur, kiminiz şamandıra;\nKiminiz bulut, havalarda;\nKiminiz çatanadır, kırdığı gibi bacayı,\nSıp diye geçer Köprü'nün altından;\nKiminiz düdüktür, öter;\nKiminiz dumandır, tüter;\nAma hepiniz, hepiniz...\nHepiniz geçim derdinde.\nBir ben miyim keyif ehli içinizde?\nBakmayın, gün olur, ben de\nBir şiir söylerim belki sizlere dair;\nElime üç beş kuruş geçer;\nKarnım doyar benim de."
+    },
+    {
+        "id": 64,
+        "author": "Orhan Veli Kanık",
+        "title": "Sere Serpe",
+        "text": "Uzanıp yatıvermiş, sere serpe;\nEntarisi sıyrılmış, hafiften;\nKolunu kaldırmış, koltuğu görünüyor;\nBir eliyle de göğsünü tutmuş.\nİçinde kötülüğü yok, biliyorum;\nYok, benim de yok ama...\nOlmaz ki!\nBöyle de yatılmaz ki!"
+    },
+    {
+        "id": 65,
+        "author": "Orhan Veli Kanık",
+        "title": "Sabaha Kadar",
+        "text": "Şu şairler sevgililerden beter;\nNedir bu adamlardan çektiğim?\nOlur mu böyle, bütün bir geceyi\nBir mısranın mahremiyetinde geçirmek?\n\nDinle bakalım, işitebilir misin\nTürküsünü damların, bacaların\nYahut da karıncaların buğday taşıdıklarını\nYuvalarına?\n\nBeklemesem olmaz mı güneşin doğmasını\nKullanılmış kafiyeleri yollamak için,\nKapıma gelecek çöpçülerle,\nDeniz kenarına?\n\nŞeytan diyor ki: 'Aç pencereyi;\nBağır, bağır, bağır; sabaha kadar.'"
+    },
+    {
+        "id": 66,
+        "author": "Orhan Veli Kanık",
+        "title": "Odamda",
+        "text": "Ben miyim bu şeylerin sahibi?\nKafamda bir çocuk var, meraksız.\nİç âlemim oyuncaktan farksız;\nOdam, içime bir ayna gibi.\nBir ışık oyunu var tavanda\nGölgeler seslerle birleşiyor\nVe bir karga beynimi deşiyor\nAzaplar kemirdiğim bu anda.\nKardeşini öldürüyor Kaabil,\nİçimde bir yalnızlık duygusu,\nÖlüm kadar uzun yaz uykusu,\nSıkıntı ile geçilen sahil.\nBağlanıyor bir iple, bir sürü\nDüşünce köyleri birbirine,\nÇöküyor her şeyin üzerine\nHülyam boyunca kurduğum köprü.\nVe doluyor sessiz, ordularım,\nDurmadan dinlenmeden odama.\nUrbam içinde yatan adama\nHayretle bakıyor dört duvarım.\nKardeşini öldürüyor Kaabil,\nİçimde bir yalnızlık duygusu,\nÖlüm kadar uzun yaz uykusu,\nSıkıntı ile geçilen sahil.\nVe delirmenin tatlı vehmini\nSessizlik odama dolduruyor.\nKargam hâlâ başımda duruyor\nBulmak'çün beynin cehennemini.\nDüşüp yatağın dalgalarına\nGünlerce sürüyor bu yolculuk.\nDurmadan akıtıyor bir oluk\nKorkuyu sükutun mezarına.\nKardeşini öldürüyor Kaabil,\nİçimde bir yalnızlık duygusu,\nÖlüm kadar uzun yaz uykusu,\nSıkıntı ile geçilen sahil.\nDünyaya tek gelen insan gibi\nAtılıyorum bir Hint dağına.\nGiriyor kafamın darlığına\nKimsesiz dünyaların sahibi\nGidip gidip gelmede aynı his\nİskeleye ulaşmıyor çima\nDikiliyor ansızın karşıma\nBoynum kalınlığındaki ceviz.\nKardeşini öldürüyor Kaabil,\nİçimde bir yalnızlık duygusu,\nÖlüm kadar uzun yaz uykusu,\nSıkıntı ile geçilen sahil."
+    },
+    {
+        "id": 67,
+        "author": "Orhan Veli Kanık",
+        "title": "Ah Neydi Benim Gençliğim",
+        "text": "Nerede böyle hüzünlenmek o zaman;\nİçip içip ağlamak,\nUzaklara dalıp şarkı söylemek;\nHafta sekiz ben eğlentide;\nBugün saz, yarın sinema,\nBeğenmedin Aile Bahçesi;\nOnu da beğenmedin, parka;\nSevdiğim dillere destan;\nSevdiğim,\nMeyil verdiğim;\nBen dizinin dibinde elpençe divan,\nSamanlık seyran.\nNerde,\nNerde,\nNerde böyle hüzünlenmek o zaman!"
+    },
+    {
+        "id": 68,
+        "author": "Orhan Veli Kanık",
+        "title": "Macera",
+        "text": "Küçüktüm, küçücüktüm,\nOltayı attım denize;\nBir üşüşüverdi balıklar,\nDenizi gördüm.\n\nBir uçurtma yaptım, telli duvaklı;\nKuyruğu ebemkuşağı renginde;\nBir salıverdim gökyüzüne;\nGökyüzünü gördüm.\n\nBüyüdüm, işsiz kaldım, aç kaldım;\nPara kazanmak gerekti;\nGirdim insanların içine,\nİnsanları gördüm.\n\nNe yardan geçerim, ne serden;\nNe denizden, ne gökyüzünden ama...\nBırakmıyor son gördüğüm,\nBırakmıyor geçim derdi.\n\nOymuş, diyorum, zavallı şairin\nGörüp göreceği."
+    },
+    {
+        "id": 69,
+        "author": "Orhan Veli Kanık",
+        "title": "Helene İçin",
+        "text": "Ötesi yok şehre ulaşınca kaderin yolu\nPişman bir el kapayacak kapısını ömrünün,\nHatırlayacaksın beni gözlerin yaşla dolu\nGüzelliğin yalnız mısralarımda kaldığı gün.\n\nOdanı dolduracak son mevsimin, son baharın...\nİsmini dinleyeceksin serin esen rüzgarda,\nDuyacaksın ateş feryadını hatıraların\nAkşam vakti söylenen aşıkhane şarkılarda.\n\nVe bilhassa parmaklığına dayandığın zaman\nUfku uzak şehirlere açılan balkonunun,\nGünahların geçecek hafızanın arkasından,\nGünahların... sonu gelmez kafilelerden uzun...\n\nÖterken ağaçlarda kuşlar tahayyül içinde,\nBakışlarında sükûnun zehri, dinleyeceksin,\nTürlü acılar şekillenecek yine içinde\n'ah! Şairim bu akşam da geçmedi' diyeceksin.\n\nVe ulaşacak bu son şehre kaderin yolu,\nKapıyacak pişman bir el kapısını ömrünün;\nHatırlayacaksın beni gözlerin yaşla dolu,\nGüzelliğin yalnız şarkılarımda kaldığı gün."
+    },
+    {
+        "id": 70,
+        "author": "Orhan Veli Kanık",
+        "title": "Ağacım",
+        "text": "Mahallemizde\nSenden başka ağaç olsaydı\nSeni bu kadar sevmezdim.\nFakat eğer sen\nBizimle beraber\nKaydırak oynamasını bilseydin\nSeni daha çok severdim.\n\nGüzel ağacım!\nSen kuruduğun zaman\nBiz de inşallah\nBaşka mahalleye taşınmış oluruz."
+    },
+    {
+        "id": 71,
+        "author": "Orhan Veli Kanık",
+        "title": "Sizin İçin",
+        "text": "Sizin için insan kardeşlerim,\nHer şey sizin için;\nGece de sizin için, gündüz de;\nGündüz gün ışığı, gece ay ışığı;\nAy ışığında yapraklar;\nYapraklarda merak;\nYapraklarda akıl;\nGün ışığında binbir yeşil;\nSarılar da sizin için, pembeler de;\nTenin avuca değişi,\nSıcaklığı,\nYumuşaklığı;\nYatıştaki rahatlık;\nMerhabalar sizin için;\nSizin için limanda sallanan direkler;\nGünlerin isimleri,\nAyların isimleri,\nKayıkların boyaları sizin için;\nSizin için postacının ayağı,\nTesticinin eli;\nAlınlardan akan ter,\nCephelerde harcanan kurşun;\nSizin için mezarlar, mezar taşları,\nHapishaneler, kelepçeler, idam cezaları;\nSizin için;\nHer şey sizin için."
+    },
+    {
+        "id": 72,
+        "author": "Orhan Veli Kanık",
+        "title": "Karmakarışık",
+        "text": "Bir okla yaralı kalbim\nBoyacının sandığında;\nGüvercinim kağıt helvasında;\nSevgilim kayığın burnunda;\nYarısı balık,\nYarısı insan;\nİn miyim?\nCin miyim?\nBen neyim?"
+    },
+    {
+        "id": 73,
+        "author": "Orhan Veli Kanık",
+        "title": "Dağbaşı",
+        "text": "Dağ başındasın;\nDerdin günün hasretlik;\nAkşam olmuş,\nGüneş Batmış,\nİçmeyip de ne haltedeceksin?"
+    },
+    {
+        "id": 74,
+        "author": "Orhan Veli Kanık",
+        "title": "Eski Karım",
+        "text": "Nedendir, biliyor musun;\nHer gece rüyama girisin,\nHer gece şeytana uyuşum,\nBembeyaz çarşafların üstünde;\nNedendir, biliyor musun?\n\nSeni hala seviyorum, eski karım.\n\nAma ne kadınsın, biliyor musun?"
+    },
+    {
+        "id": 75,
+        "author": "Orhan Veli Kanık",
+        "title": "Ebabil",
+        "text": "Alıp içinde sesler uçuşan bu akşamdan\nHafızamı bir deniz kıyısına çeken yol,\nAydınlık rüyaların peşine düşen gondol\nMavi bir denizde yüzer gibi yanan şamdan.\n\nTuşların üstünde karanlığın heyulası\nVe birden kalbe çırpınışlar veren hatıra.\nÇekmede beni saadet dolu dünyalara\nMine parmaklarında sedalaşan hülyası.\n\nSıyrılmada gözlerimden yıllarca geceler\nVe yalnız kalmada bir yaza ram olan sahil,\nUçuşmada gökyüzünde bir sürü ebabil:\nSevgimi ve hasretimi ebedi kılan yer.\n\nAçık pancurlarından seslerin dökülüşü..\nBir göl mü ürpermede ruhun uzaklarında?\nEn yakın sevgiyi duymıyan dudaklarında\nHer yaşayıştan daha güzel olan gülüşü.\n\nIlık gölgelerde uyutup düşünceleri\nBeyaz etekler ile bana göründüğün an\nVe kapıları yeşil sabahlara açılan\nSıcak tahayyüllerle dolu yaz geceleri.\n\nRenkli fanusların altında doğan dünyası,\nOmuzlarında ay ışığından örgülerle\nEklenmede içime hasret kaldığım yerle\nMine parmaklarında sadalaşan hülyası."
+    },
+    {
+        "id": 75,
+        "author": "Orhan Veli Kanık",
+        "title": "Anlatamıyorum",
+        "text": "Ağlasam sesimi duyar mısınız,\nMısralarımda;\nDokunabilir misiniz,\nGözyaşlarıma, ellerinizle?\n\nBilmezdim şarkıların bu kadar güzel,\nKelimelerinse kifayetsiz olduğunu\nBu derde düşmeden önce.\n\nBir yer var, biliyorum;\nHer şeyi söylemek mümkün;\nEpeyce yaklaşmışım, duyuyorum;\nAnlatamıyorum."
+    }
+]
